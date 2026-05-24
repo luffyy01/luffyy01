@@ -62,7 +62,7 @@ Passionate about **Problem Solving**, **Competitive Programming**, and **AI / ML
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github,vscode,vercel,react,js&perline=10" alt="My Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,react,js&perline=10" alt="My Tech Stack"/>
   </a>
 </p>
 
