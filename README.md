@@ -48,7 +48,7 @@
 
 <br/>
 
-Passionate about **Problem Solving**, **Competitive Programming**, and **AI / ML**.
+Passionate about **Problem Solving**, **Competitive Programming**, and **AI / ML** and **Trading**.
 
 <br/><br/>
 
